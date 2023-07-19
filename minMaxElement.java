@@ -1,4 +1,4 @@
-public class minElement {
+public class minMaxElement {
     public static void min(int arr[])
     {
         int min=arr[0];
