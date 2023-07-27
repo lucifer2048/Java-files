@@ -16,5 +16,8 @@ public class GFG {
         m1.removeAll(m2);
         System.out.println("m1 data"+m1);
         m1.remove(1);
+        System.out.println("m1 data"+m1);
+        System.out.println("retrieve index at 3 data from ml"+m1.get(0));
+        
     }
 }
