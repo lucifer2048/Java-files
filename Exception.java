@@ -1,4 +1,7 @@
 public class Exception {
+    public Exception(String str) {
+    }
+
     public static void main(String[] args) {
         try{
     
